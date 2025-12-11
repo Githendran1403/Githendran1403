@@ -19,8 +19,17 @@ Focused on mastering core programming concepts and improving problem-solving ski
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=c" title="C Language" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
 </p>
+
 
 ### **Tools & Platforms**
 <p>
