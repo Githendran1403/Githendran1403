@@ -1,43 +1,58 @@
-<h1 align="center">Hey 👋, I'm GITHENDRAN K</h1>
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+<h1 align="center">👋 Hi, I'm <b>Githendran K</b></h1>
+<h3 align="center">Frontend Developer & Programming Enthusiast</h3>
 
 ---
 
-### 🚀 About Me  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, C, Python**  
-- 💡 I love creating clean UI and solving programming problems  
-- 👯 Looking to collaborate on **Frontend & Python Projects**  
-- ⚡ Fun fact: I enjoy building things that make life easier!
+## 🧑‍💻 About Me
+I am a passionate developer who loves building clean, responsive, and user-friendly web interfaces.  
+Focused on mastering core programming concepts and improving problem-solving skills.
+
+- 🔭 Exploring **modern web development**
+- 🌱 Currently learning **JavaScript & Python**
+- 💡 Interested in **Frontend Development**, **UI Design**, and **Automation**
+- 📌 Goal: Become a skilled **Full-Stack Developer**
+- ⚡ Fun fact: I debug faster with music 🎧
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🛠️ Tech Stack
+
+### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Githendran1403&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githendran1403&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🔥 Streak Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Githendran1403&theme=tokyonight" />
-</p>
-
----
-
-### 🤝 Connect With Me  
+### **Tools & Platforms**
 <p>
-  <a href="https://github.com/Githendran1403"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 📊 GitHub Analytics
+
+### **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Githendran1403&show_icons=true&theme=radical" height="165" />
+</p>
+
+### **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githendran1403&layout=compact&theme=radical" height="165" />
+</p>
+
+### **Streak Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Githendran1403&theme=radical" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p>
+  <a href="https://github.com/Githendran1403"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+</p>
+
+---
+
+### ⭐ *Thanks for visiting my profile! Feel free to explore my projects.*
