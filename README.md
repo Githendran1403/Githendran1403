@@ -60,7 +60,10 @@ Focused on mastering core programming concepts and improving problem-solving ski
 ## 🤝 Connect With Me
 <p>
   <a href="https://github.com/Githendran1403"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-  <a href="[https://linkedin.com/](https://www.linkedin.com/in/githendran-k-a9a788348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="https://www.linkedin.com/in/githendran k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 </p>
 
 ---
