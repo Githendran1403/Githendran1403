@@ -42,7 +42,7 @@ Focused on mastering core programming concepts and improving problem-solving ski
 
 ### **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Githendran1403&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Githendran1403 & show_icons=true&theme=radical" height="165" />
 </p>
 
 ### **Top Languages**
@@ -60,6 +60,7 @@ Focused on mastering core programming concepts and improving problem-solving ski
 ## 🤝 Connect With Me
 <p>
   <a href="https://github.com/Githendran1403"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="[https://linkedin.com/](https://www.linkedin.com/in/githendran-k-a9a788348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
 </p>
 
 ---
