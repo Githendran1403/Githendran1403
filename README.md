@@ -1,9 +1,8 @@
 ## 🧑‍💻 GitHub Profile
 
 
-<p align="center">
-  <img src="gith![githead](https://github.com/user-attachments/assets/48c205e0-228e-4cab-9c2d-0ce5042cabd5)
-ead.jpg" alt="My Image">
+<p >
+  <img  src="githead.jpg" alt="My Image">
 
 </p>
 
