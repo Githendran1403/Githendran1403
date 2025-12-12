@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./githead.jpg" width="150" alt="Profile Image" />
+  <img src="./githead.png" width="850" height="230" alt="Profile Image" />
 </p>
 
 
