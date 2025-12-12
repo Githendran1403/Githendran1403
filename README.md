@@ -1,7 +1,10 @@
 ## 🧑‍💻 GitHub Profile
 
-<img src="![Uploading githead.png…]()
-" width="150" alt="GitHub Profile Image" />
+
+<p align="center">
+  <img src="./githead.jpg" width="150" alt="Profile Image" />
+</p>
+
 
 ---
 
