@@ -11,7 +11,6 @@ Focused on mastering core programming concepts and improving problem-solving ski
 - 🌱 Currently learning **JavaScript & Python**
 - 💡 Interested in **Frontend Development**, **UI Design**, and **Automation**
 - 📌 Goal: Become a skilled **Full-Stack Developer**
-- ⚡ Fun fact: I debug faster with music 🎧
 
 ---
 
@@ -24,6 +23,7 @@ Focused on mastering core programming concepts and improving problem-solving ski
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=c" title="C Language" />
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
   
   
 </p>
