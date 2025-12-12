@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi, I'm <b>Githendran K</b></h1>
-<h3 align="center">Full Stack Developer | Problem Solver </h3>
+## 🧑‍💻 GitHub Profile
+
+<img src="https://github.com/github-header-banner.png" width="150" alt="GitHub Profile Image" />
 
 ---
 
