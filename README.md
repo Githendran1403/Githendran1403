@@ -1,75 +1,95 @@
-## 🧑‍💻 GitHub Profile
+# Hi 👋, I'm GITHENDRAN K.
 
-
-<h1 align="center">👋 Hi, I'm <b>Githendran K</b></h1>
-<h3 align="center">Full Stack Developer | Problem Solver </h3>
-
-
----
-
-## 🧑‍💻 About Me
-I am a passionate developer who loves building clean, responsive, and user-friendly web interfaces.  
-Focused on mastering core programming concepts and improving problem-solving skills.
-
-- 🔭 Exploring **modern web development**
-- 🌱 Currently learning **JavaScript & Python**
-- 💡 Interested in **Frontend Development**, **UI Design**, and **Automation**
-- 📌 Goal: Become a skilled **Full-Stack Developer**
+🎓 **Computer Science and Business Systems (3rd Year)**
+🏫 Kalaingar Karunanidhi Institute of Technology
+💡 Passionate about solving real‑world problems using **Web Development, AI and Machine Learning**
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=c" title="C Language" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=react" title="React" />
+I am an enthusiastic Computer Science and Business Systems student with a strong foundation in programming and problem‑solving. I enjoy building practical projects, exploring new technologies, and continuously upgrading my skills through courses, certifications, and hackathons.
+
+I believe in learning by doing and actively apply my knowledge through mini‑projects and real‑world use cases.
+
+---
+
+## 🛠️ Technical Skills
+
+* **Programming Languages:** Python, Java, C
+* **Core Concepts:**
+
+  * Data Structures & Algorithms 
+  * Web Development
+  * Machine Learning 
+* **Frameworks & Tools:**
+
+  * REST API 
+  * Git & GitHub
+* **Databases:** SQL (Basics)
+
+---
+
+## 📜 Certifications & Learning
+
+* ✅ Python Certification – Infosys
+* ✅ Java Certification – Infosys
+* ✅ NPTEL Certified Course
+* ✅ 20+ Courses completed on **Coursera** , **Salesforce** and **Cisco**
+
+---
+
+## 🚀 Projects
+
+* 🔹 **Automated Resume Analyzer**
+
+  * Developed with Python and React and published on GitHub
+  * Focused on applying ML and Full Stack concepts to real‑world problems
+
+* 🔹 **Inventory and Billing Management**
+
+  * Developed with MERN Stack and published on GitHub
+  * API integration using REST API
   
-  
-</p>
 
-
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-</p>
+*(More projects coming soon 🚧)*
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Achievements & Activities
 
-### **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Githendran1403 & show_icons=true&theme=radical" height="165" />
-</p>
-
-### **Top Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githendran1403&layout=compact&theme=radical" height="165" />
-</p>
-
-### **Streak Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Githendran1403&theme=radical" />
-</p>
+* 🧠 Participated in **24‑Hour Hackathon**
+* ⚡ Participated in **12‑Hour Hackathon**
+* 🏭 Completed **In‑Plant Training** in Web Development
 
 ---
 
-## 🤝 Connect With Me
-<p>
-  <a href="https://github.com/Githendran1403"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-  <a href="https://www.linkedin.com/in/githendran-k/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+## 🌱 Currently Learning
 
-</p>
+* DevOps
+* Full‑Stack Development(MERN)
+* System Design Basics
+* Competitive Programming
 
 ---
 
-### ⭐ *Thanks for visiting my profile! Feel free to explore my projects.*
+## 🔗 Coding Profiles & Links
+
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/githendran-k-a9a788348/](https://www.linkedin.com/in/githendran-k-a9a788348/)
+* 🧩 **LeetCode:** [https://leetcode.com/u/githendran14232005/](https://leetcode.com/u/githendran14232005/)
+* 🏁 **CodeChef:** [https://www.codechef.com/users/githendran_vfc](https://www.codechef.com/users/githendran_vfc)
+
+---
+
+## 📫 Contact Me
+
+* 📧 **Email:** githendran14232005@gmail.com
+
+Feel free to connect with me for collaboration, internships, or project discussions.
+
+
+📧 *Open to learning, building, and growing together!* 🚀
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
