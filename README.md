@@ -1,7 +1,7 @@
 # Hi 👋, I'm GITHENDRAN K.
 
 🎓 **Computer Science and Business Systems (3rd Year)**
-🏫 Kalaingar Karunanidhi Institute of Technology
+🏫 Kalaingarkarunanidhi Institute of Technology
 💡 Passionate about solving real‑world problems using **Web Development, AI and Machine Learning**
 
 ---
